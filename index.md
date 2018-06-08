@@ -6,8 +6,8 @@ title: Yunseong Lee's CV
 Computer Scientist, Software Developer.
 
 <div id="webaddress">
-<a href="swack9751@naver.com">isaac@applesdofall.org</a>
-| <a href="https://alohays.github.io/">My wikipedia page</a>
+<a href="swack9751@naver.com">swack9751@naver.com</a>
+| <a href="https://alohays.github.io/">My Blog</a>
 </div>
 
 
