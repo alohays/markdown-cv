@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Yunseong Lee's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Yunseong Lee
+Computer Scientist, Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="swack9751@naver.com">isaac@applesdofall.org</a>
+| <a href="https://alohays.github.io/">My wikipedia page</a>
 </div>
 
 
