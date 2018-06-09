@@ -4,6 +4,7 @@ title: Yunseong Lee's CV
 ---
 # Yunseong Lee
 
+
 Computer Scientist, Software Developer.
 
 <div id="webaddress">
@@ -20,18 +21,14 @@ I am not only a optimist but also a optimizer
 
 ### Specialized in
 
-
 - Algorithms, Problem Solving
 - Machin Learning, Computer Vision
 - Presentation, Teaching
 
-
 ### Skills
-
 
 - C, C++, Java, Python ...
 - English, Korean
-
 
 ### Research interests
 
