@@ -58,6 +58,9 @@ ACM-ICPC Regional Award, *ACM*, *HYU CSE*, Daejeon, Korea
 Undergraduate Deep Learning Study Group of CVLAB, [HYU CVLAB](http://cvlab.hanyang.ac.kr/), Seoul, Korea
 
 `2017`
+[Advanced Algorithms and Complexity Study Note in Korean](https://wikidocs.net/book/1469) Co-author
+
+`2017`
 Trainee, [SW  Maestro](swmaestro.kr/), Ministry of Science and ICT, Seoul, Korea
 
 `2017`
@@ -81,6 +84,10 @@ Team Leader, [ALOHA (Algorithm research team of HYU)](https://www.facebook.com/H
 `2016`
 Chief test writer, HYU Programming Contest, Seoul, Korea
 
+## Accomplishments
+
+`2017`
+Certifications, Advanced Algorithms and Complexity Data Structures, [Coursera](https://www.coursera.org/)
 
 
 <!-- ### Footer
