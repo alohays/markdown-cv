@@ -11,12 +11,12 @@ Computer Scientist, Software Developer.
 | <a href="https://alohays.github.io/">Blog</a>
 </div>
 
-![me](./me.jpg){: width="200" height="200"}
+![me](./me.jpg){: width="100" height="100"}
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am not only a optimist but also a optimizer
 
 ### Specialized in
 
@@ -29,7 +29,7 @@ Standing on the shoulders of giants
 ### Skills
 
 
-- Programming Languages: C, C++, Java, Python ...
+- C, C++, Java, Python ...
 - English, Korean
 
 
@@ -48,48 +48,49 @@ __HanYang Univ.__
 
 ## Awards
 
-`2014`
-ACM-ICPC Regional Award, *ACM*, *HYU CSE*, Seoul, Korea
+`2016`
+UCPC 28th place, *Union of Korean Programming Contest Team*, Seoul, Korea
 
 `2015`
 4th place, *HYU Programming Contest  (Advanced Division)*, Seoul, Korea
 
+`2014`
+ACM-ICPC Regional Award, *ACM*, *HYU CSE*, Daejeon, Korea
+
 
 ## Experiences
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2018`
+Undergraduate Deep Learning Study Group of CVLAB, [HYU CVLAB](http://cvlab.hanyang.ac.kr/), Seoul, Korea
 
-### Journals
+`2017`
+Trainee, [SW  Maestro](swmaestro.kr/), Ministry of Science and ICT, Seoul, Korea
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2017`
+Intern, [Algorithm Labs (HY-WEP)](https://www.algorithmlabs.co.kr/), Seoul,Korea
 
-`1669`
-Lectiones opticæ.
+`2018`
+Experience Catalyst, 14th [TEDxHanyangU Organizers](http://tedxhanyangu.org/), Seoul, Korea
 
-etc. etc. etc.
+`2017`
+Web Engineer, 13th [TEDxHanyangU Organizers](http://tedxhanyangu.org/), Seoul, Korea
 
-### Patents
+`2015-2016`
+Team Leader, [ALOHA (Algorithm research team of HYU)](https://www.facebook.com/HYUALOHA/), Seoul, Korea
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Accomplishments
+    - Team’s accomplishments: UCPC(3rd), ACM-ICPC Daejeon(Bronze medal), Google Code Jam for Women(21st)
+    - Hosted several programming contests
+    - Open combined event: KSH(Korea, Sookmyung W, Hanyang Univ.) Algorithm Camp - Test writer & Presenter
+    - Taught algorithms to team members
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2016`
+Chief test writer, HYU Programming Contest, Seoul, Korea
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jun 2018 -->
 
 
