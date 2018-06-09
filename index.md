@@ -7,13 +7,12 @@ title: Yunseong Lee's CV
 
 Computer Scientist, Software Developer.
 
+## ![me](./me.jpg){: width="100" height="100"}
+
 <div id="webaddress">
 <a href="swack9751@naver.com">swack9751@naver.com</a>
 | <a href="https://alohays.github.io/">Blog</a>
 </div>
-
-## ![me](./me.jpg){: width="100" height="100"}
-
 
 ## Currently
 
