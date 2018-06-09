@@ -3,12 +3,15 @@ layout: cv
 title: Yunseong Lee's CV
 ---
 # Yunseong Lee
+
 Computer Scientist, Software Developer.
 
 <div id="webaddress">
 <a href="swack9751@naver.com">swack9751@naver.com</a>
-| <a href="https://alohays.github.io/">My Blog</a>
+| <a href="https://alohays.github.io/">Blog</a>
 </div>
+
+![me](./me.jpg)
 
 
 ## Currently
@@ -17,41 +20,42 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+- Algorithms, Problem Solving
+- Machin Learning, Computer Vision
+- Presentation, Teaching
+
+
+### Skills
+
+
+- Programming Languages: C, C++, Java, Python ...
+- English, Korean
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning, Computer Vision, Algorithms, Optimizations, Artificial Intelligence, Quantum Algorithms. 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-`
+__HanYang Univ.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- B.Sc. (Computer Science Engineering) 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2014`
+ACM-ICPC Regional Award, *ACM*, *HYU CSE*, Seoul, Korea
 
-Associate, *French Academy of Science*, Paris, France
+`2015`
+4th place, *HYU Programming Contest  (Advanced Division)*, Seoul, Korea
 
 
-
-## Publications
+## Experiences
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
