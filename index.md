@@ -61,7 +61,7 @@ Undergraduate Deep Learning Study Group of CVLAB, [HYU CVLAB](http://cvlab.hanya
 [Advanced Algorithms and Complexity Study Note in Korean](https://wikidocs.net/book/1469) Co-author
 
 `2017`
-Trainee, [SW  Maestro](swmaestro.kr/), Ministry of Science and ICT, Seoul, Korea
+Trainee, SW  Maestro, Ministry of Science and ICT, Seoul, Korea
 
 `2017`
 Intern, [Algorithm Labs (HY-WEP)](https://www.algorithmlabs.co.kr/), Seoul,Korea
