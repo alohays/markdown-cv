@@ -11,7 +11,7 @@ Computer Scientist, Software Developer.
 | <a href="https://alohays.github.io/">Blog</a>
 </div>
 
-![me](./me.jpg)
+![me](./me.jpg){: width="200" height="200"}
 
 
 ## Currently
