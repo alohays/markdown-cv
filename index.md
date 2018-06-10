@@ -14,7 +14,7 @@ Computer Scientist, Software Developer.
 
 ## Currently
 
-I am not only a optimist but also a optimizer
+I am not only an optimist but also an optimizer
 
 ### Specialized in
 
