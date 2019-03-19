@@ -18,8 +18,8 @@ I am not only an optimist but also an optimizer
 
 ### Specialized in
 
+- Machine Learning, Computer Vision
 - Algorithms, Problem Solving
-- Machin Learning, Computer Vision
 - Presentation, Teaching
 
 ### Skills
@@ -34,7 +34,12 @@ Machine Learning, Computer Vision, Algorithms, Optimizations, Artificial Intelli
 
 ## Education
 
-`2014-`
+`2019-`
+__Korea Univ. [DAVIAN LAB](http://davian.korea.ac.kr/)__
+
+- M.Sc. (Computer Science Engineering) 
+
+`2014-2019`
 __HanYang Univ.__
 
 - B.Sc. (Computer Science Engineering) 
@@ -55,7 +60,10 @@ ACM-ICPC Regional Award, *ACM*, *HYU CSE*, Daejeon, Korea
 ## Experiences
 
 `2018`
-Undergraduate Deep Learning Study Group of CVLAB, [HYU CVLAB](http://cvlab.hanyang.ac.kr/), Seoul, Korea
+Undergraduate Research Assistant of  [KU DAVIAN LAB](http://davian.korea.ac.kr/), Seoul, Korea
+
+`2018`
+Undergraduate Deep Learning Study Group Member of  [HYU CVLAB](http://cvlab.hanyang.ac.kr/), Seoul, Korea
 
 `2017`
 [Advanced Algorithms and Complexity Study Note in Korean](https://wikidocs.net/book/1469) Co-author
